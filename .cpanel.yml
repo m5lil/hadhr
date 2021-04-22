@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/swapsnet/public_html/current/
+    - /bin/cp -r * $DEPLOYPATH
