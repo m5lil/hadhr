@@ -13,4 +13,5 @@ Disallow: /vendor/
 Disallow: /main.php
 Disallow: /mix-manifest.json
 
-Sitemap: http://hadhr.com/sa/sitemaps.xml
+
+Sitemap: http://hadhr.test/sa/sitemaps.xml
